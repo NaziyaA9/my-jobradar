@@ -1,20 +1,30 @@
 {
   "target": {
-    "full-time": ["entry level"],
-    "countries": ["USA"],
+    "intern": [
+      "summer intern",
+      "off-season intern"
+    ],
+    "full-time": [
+      "entry level"
+    ],
+    "countries": [
+      "Remote"
+    ],
     "filter": {
-      "USA": {
+      "Remote": {
         "allow_citizenship_required": false,
-        "allow_no_sponsorship": false
+        "allow_no_sponsorship": true
       }
     },
     "keywords": [
       "software",
-      "swe",
-      "fde",
-      "forward-deployed",
       "system",
-      "systems",
+      "dev",
+      "develop",
+      "developer",
+      "development",
+      "software engineering",
+      "software engineer",
       "backend",
       "back-end",
       "frontend",
@@ -23,23 +33,17 @@
       "fullstack",
       "platform",
       "web",
-      "app",
-      "apps",
       "mobile",
       "ios",
       "android",
       "data",
       "ai",
-      "ml",
-      "machine learning",
       "cloud",
       "infra",
       "infrastructure",
-      "devops",
-      "sre",
-      "site reliability",
-      "security",
       "automation",
+      "swe",
+      "sde",
       "ui",
       "ux"
     ]
@@ -52,13 +56,12 @@
   "sender": {
     "host": "smtp.gmail.com",
     "port": 587,
-    "user": "donkey@ntu.im",
-    "email": "donkey@ntu.im"
+    "user": "sheiknaziya.9@gmail.com",
+    "email": "sheiknaziya.9@gmail.com"
   },
   "receiver": {
-    "emails": ["donkey.leelee@gmail.com", "ntuimb09705004@ntu.im"]
-  },
-  "dashboard": {
-    "includeAllTechJobs": true
+    "emails": [
+      "sheiknaziya.9@gmail.com"
+    ]
   }
 }
