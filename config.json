@@ -49,19 +49,9 @@
     ]
   },
   "ai": {
-    "enabled": true,
+    "enabled": false,
     "provider": "google",
     "model": "gemini-2.5-flash"
   },
-  "sender": {
-    "host": "smtp.gmail.com",
-    "port": 587,
-    "user": "sheiknaziya.9@gmail.com",
-    "email": "sheiknaziya.9@gmail.com"
-  },
-  "receiver": {
-    "emails": [
-      "sheiknaziya.9@gmail.com"
-    ]
-  }
+ 
 }
